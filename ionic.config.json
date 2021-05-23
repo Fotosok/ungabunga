@@ -1,0 +1,8 @@
+{
+  "name": "ungabunga",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "2b3b400e"
+}
